@@ -8,3 +8,5 @@ Git is free software distributed under the GPL.
 GIT ONE
 
 Git two
+
+Git remote
