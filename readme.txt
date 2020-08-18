@@ -10,3 +10,5 @@ GIT ONE
 Git two
 
 Git remote
+
+Creating a new branch is quick.
